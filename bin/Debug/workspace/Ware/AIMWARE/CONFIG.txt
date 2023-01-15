@@ -1,0 +1,1 @@
+{"shortcuts":{"LeftControlAWYAW":["CTRL+Y","close/open"],"LeftControlAWQAW":["CTRL+Q","chams"],"LeftControlAWEAW":["CTRL+E","lines"],"LeftControlAWTAW":["CTRL+T","visualcheck"],"LeftControlAWGAW":["CTRL+G","aimbot"]},"startup":{"silentlaunch":false}}
