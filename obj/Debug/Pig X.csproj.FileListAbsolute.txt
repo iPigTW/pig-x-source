@@ -1,0 +1,14 @@
+C:\Users\yh031101\source\repos\Pig X\Pig X\obj\Debug\Pig X.csproj.AssemblyReference.cache
+C:\Users\yh031101\source\repos\Pig X\Pig X\obj\Debug\Pig_X.Form1.resources
+C:\Users\yh031101\source\repos\Pig X\Pig X\obj\Debug\Pig_X.Properties.Resources.resources
+C:\Users\yh031101\source\repos\Pig X\Pig X\obj\Debug\Pig X.csproj.GenerateResource.cache
+C:\Users\yh031101\source\repos\Pig X\Pig X\obj\Debug\Pig X.csproj.CoreCompileInputs.cache
+C:\Users\yh031101\source\repos\Pig X\Pig X\bin\Debug\Pig X.exe.config
+C:\Users\yh031101\source\repos\Pig X\Pig X\bin\Debug\Pig X.exe
+C:\Users\yh031101\source\repos\Pig X\Pig X\bin\Debug\Pig X.pdb
+C:\Users\yh031101\source\repos\Pig X\Pig X\obj\Debug\Pig X.exe
+C:\Users\yh031101\source\repos\Pig X\Pig X\obj\Debug\Pig X.pdb
+C:\Users\yh031101\source\repos\Pig X\Pig X\obj\Debug\Pig X.csproj.CopyComplete
+C:\Users\yh031101\source\repos\Pig X\Pig X\bin\Debug\KrnlAPI.dll
+C:\Users\yh031101\source\repos\Pig X\Pig X\bin\Debug\Siticone.UI.dll
+C:\Users\yh031101\source\repos\Pig X\Pig X\bin\Debug\FastColoredTextBox.dll
